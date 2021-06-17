@@ -274,6 +274,8 @@ sqlalchemy==1.3.20
     #   flask-sqlalchemy
     #   marshmallow-sqlalchemy
     #   sqlalchemy-utils
+sqlalchemy-trino=0.3.0
+    # Kumar Added for trino Integration
 sqlparse==0.3.0
     # via apache-superset
 typing-extensions==3.7.4.3
